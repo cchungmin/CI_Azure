@@ -1,7 +1,7 @@
 CI_Azure
 ========
 
-An extended library for users to utilize Windows Azure Table Storage in CodeIgnitor.\n
+An extended library for users to utilize Windows Azure Table Storage in CodeIgnitor.
 Notice that this version only supports Azure Table Storage right now, not support other types of storage.
 
 
